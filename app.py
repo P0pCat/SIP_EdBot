@@ -13,7 +13,7 @@ if "thread_id" not in st.session_state:
 
 st.set_page_config(page_title="CatGPT", page_icon=":speech_balloon:")
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.markdown(
     """
